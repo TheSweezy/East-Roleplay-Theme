@@ -1,0 +1,35 @@
+/**
+* @name East Roleplay
+* @version 1.0.0
+* @description Dontate to East wäre besser
+* @author Sweezy#1605
+*/
+@import url("https://DiscordStyles.github.io/DarkMatter/src/base.css");
+@import url('https://codedotspectra.github.io/themes/core/custom-font.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
+@import url('https://discordstyles.github.io/RadialStatus/base.css');
+:root {
+--background-image: url('https://i.imgur.com/pLFKbRz.png');
+--home-image: url('https://i.imgur.com/DzfXfYt.png');
+--avatar-size: 33px;
+--accent: 37,172,232;
+--accent-alt: 147,149,17;
+--background-solid: #210000C6;
+--background-solid-dark: #AABFFF62;
+--background-solid-darker: #7D92BC3B;
+--rs-small-spacing: 2px;
+--rs-large-spacing: 3px;
+--rs-width: 2px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #B50000FF;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--columns: 3;
+--guildsize: 37;
+--guildgap: 13;
+--aligndms: 0;
+--customFont: 'Roboto';
+}
